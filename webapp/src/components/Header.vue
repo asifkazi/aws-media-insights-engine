@@ -6,8 +6,9 @@
       variant="dark"
     >
       <b-navbar-brand to="/">
-        Media Insights Engine
+        Media Insights Engine - Octank Media and Entertainment Services
       </b-navbar-brand>
+      
       <b-navbar-toggle target="nav-collapse" />
 
       <b-collapse
